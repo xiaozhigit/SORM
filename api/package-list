@@ -1,0 +1,6 @@
+com.xiaozhi.orm
+com.xiaozhi.orm.bean
+com.xiaozhi.orm.core
+com.xiaozhi.orm.entitys
+com.xiaozhi.orm.pool
+com.xiaozhi.orm.utils
